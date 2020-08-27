@@ -82,4 +82,4 @@ _**bold and italic**_
 
 ![animated gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![Qu'est-ce que le Markdown ?](./tuto_mardown1.md)
+![Qu'est-ce que le Markdown ?](./tuto_markdown1.md)

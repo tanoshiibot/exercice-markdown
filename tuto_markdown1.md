@@ -38,4 +38,4 @@ Inline <abbr title="Hypertext Markup Language">HTML</abbr> est pris en charge.
 
 Les implémentations de `Markdown` sont disponibles pour plus d’une douzaine de langages de programmation;en outre,de nombreuses plates-formes et cadres soutiennementent Markdown.Par exemple, les plugins Markdown existent pour toutes les grandes plateformes de blogs.
 
-![Comment utiliser le markdown ?](./tuto_mardown2.md)
+![Comment utiliser le markdown ?](./tuto_markdown2.md)
