@@ -55,10 +55,14 @@ _**bold and italic**_
 ---
 # GitHub markdown
 
-> code blocks | use a tab and then write code
+> code blocks |
 
 
+```javascript
+    function helloWorld(){
+    let a = "Hello World !";
+    console.log(a);
+}
+```
 
-    list-style: none;
-    text-decoration: none;
-
+![animated gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
