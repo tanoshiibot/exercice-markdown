@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-Hello world
-=======
->>>>>>> master
