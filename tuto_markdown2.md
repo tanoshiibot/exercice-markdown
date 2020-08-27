@@ -14,7 +14,6 @@
 | Links              | [texte](URL)              | Affiche [texte] en tant que lien vers URL |                                                                |
 | Images             | ![alt](image.jpg "titre") | Affiche image.jpg avec un titre et un alt | Il est évidemment possible de combiner une image et un lien... |
 
-
 > Headings | # times the heading wanted
 # Heading 1
 ## Heading 2
