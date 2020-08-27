@@ -11,8 +11,8 @@
 | Italic (alt)       | \_[texte]\_               | Affiche [texte] en italique               | Une autre méthode                                              |
 | Bold & Italic      | \*\*\*[texte]\*\*\*       | Affiche [texte] en gras et en italique    |                                                                |
 | Bold & Italic      | \_\_\_[texte]\_\_\_       | Affiche [texte] en gras et en italique    | Il est également possible de combiner les deux méthodes        |
-| Links              | [texte](URL)              | Affiche [texte] en tant que lien vers URL |                                                                |
-| Images             | ![alt](image.jpg "titre") | Affiche image.jpg avec un titre et un alt | Il est évidemment possible de combiner une image et un lien... |
+| Links              | \[texte](URL)              | Affiche [texte] en tant que lien vers URL |                                                                |
+| Images             | \![alt]\(image.jpg "titre") | Affiche image.jpg avec un titre et un alt | Il est évidemment possible de combiner une image et un lien... |
 
 > Headings | # times the heading wanted
 # Heading 1
