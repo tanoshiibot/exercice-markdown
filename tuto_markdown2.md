@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Hello world
+=======
+>>>>>>> master
